@@ -7,7 +7,7 @@ I try to use CNN neural network and achieve good train accuracy first 99.07% tra
 
 In the free time, I will try to perfect this model with different DL architecture
 
-27/3/22 - 99.07% ta ; 77.07% va
+27/3/22 - 99.07% ta ; 77.07% va \n
 31/3/22 - 96.49% ta ; 78.97% va
 
 
