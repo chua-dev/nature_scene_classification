@@ -9,7 +9,8 @@ In the free time, I will try to perfect this model with different DL architectur
 
 27/3/22 - 99.07% ta | 77.07% va  
 31/3/22 - 96.49% ta | 78.97% va  
+4/4/22 - 83.85% ta | 72.57% va
 
-
-Remarks
-31/3/22 - Added bunch of BatchNormal and Dropout normalization to layers, it does increase val acc slightly (up to 81%), but lower train accuracy
+Remarks  
+31/3/22 - Added bunch of BatchNormal and Dropout normalization to layers, it does increase val acc slightly (up to 81%), but lower train accuracy  
+4/4/22 - Highly lower layer complexity and 0.0001 learning rate, train with 200 epoch with early stopping callback, to no avail
