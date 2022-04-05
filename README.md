@@ -9,10 +9,10 @@ In the free time, I will try to perfect this model with different DL architectur
 
 27/3/22 - 99.07% ta | 77.07% va  
 31/3/22 - 96.49% ta | 78.97% va  
-4/4/22 - 83.85% ta | 72.57% va
+4/4/22 - 83.85% ta | 72.57% va  
 5/4/22 - 91.00% ta | 88.60% va (VGG16 Transfer Learning CNN ONLY)
 
 Remarks  
 31/3/22 - Added bunch of BatchNormal and Dropout normalization to layers, it does increase val acc slightly (up to 81%), but lower train accuracy  
-4/4/22 - Highly lower layer complexity and 0.0001 learning rate, train with 200 epoch with early stopping callback, to no avail
+4/4/22 - Highly lower layer complexity and 0.0001 learning rate, train with 200 epoch with early stopping callback, to no avail  
 5/4/22 - Calling CNN from transfer learning + own hidden layers highly increase val accuracy, train accuracy is high but not enought, need to check with other tl model
